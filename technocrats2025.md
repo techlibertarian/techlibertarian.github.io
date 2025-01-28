@@ -8,13 +8,13 @@ Elon Musk, the world’s richest man, exemplifies the growing influence of techn
 
 The implications of this technocratic rise are profound. Social media platforms, once hailed as tools for democratization, have become weapons of mass manipulation. The algorithms that govern these platforms are designed to exploit human psychology, shaping beliefs and behaviors in ways that are often imperceptible. As AI becomes more sophisticated, the risk of a homogenized digital landscape—where only one narrative dominates—grows exponentially. This erosion of diverse perspectives undermines the foundation of democracy, which relies on open dialogue and the free exchange of ideas.
 
-##The Global Shift Toward Authoritarianism
+## The Global Shift Toward Authoritarianism
 
 The rise of technocracy is not occurring in isolation. Across the globe, authoritarian tendencies are gaining traction. In the United States, Donald Trump’s presidency marked a turning point in the erosion of democratic norms. From withdrawing from international agreements like the Paris Accord to pardoning individuals involved in the Capitol insurrection, Trump’s actions have emboldened far-right movements and undermined trust in democratic institutions. His rhetoric, which often targets marginalized groups, has further polarized society and normalized extremist ideologies.
 
 Europe is not immune to this trend. The growing popularity of far-right parties like Sweden’s Sverigedemokraterna (SD) and Germany’s AfD reflects a broader shift toward nationalism and xenophobia. These movements, often fueled by disinformation campaigns and social media manipulation, threaten to dismantle the progress made in promoting equality and human rights. The normalization of fascist rhetoric, coupled with the increasing surveillance and control of citizens, paints a grim picture of the future.
 
-##The Role of Technology in Undermining Democracy
+## The Role of Technology in Undermining Democracy
 
 Technology, while a powerful tool for progress, has also become a double-edged sword. The proliferation of AI-generated content, coupled with the monopolization of digital platforms by a handful of corporations, has created an environment where truth is increasingly elusive. The ability to manipulate information on a massive scale has made it easier than ever for authoritarian regimes and technocrats to consolidate power. The recent ban on TikTok in the United States, for example, highlights the geopolitical tensions surrounding technology and its role in shaping public opinion.
 
